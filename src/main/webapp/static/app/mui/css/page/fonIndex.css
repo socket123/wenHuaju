@@ -1,0 +1,26 @@
+
+/*圆 */
+.li_div{width:50px;height:50px;border-radius: 25px; text-align: center;line-height: 50px;margin: auto;}
+
+.li_div_a{color: #FFFFFF;font-size: 0.9em;}
+
+.red{background: #F44421;}
+.green{background: #1DCCAA;}
+.blue{background: #45A1DE;}
+.prick{background: #FF7777;}
+
+
+.indec_imgs{width: 100%;height: 180px;}
+
+
+
+
+.li_divall{width:70px;height:90px; float: left;}
+
+.li_div_span{width: 70px;text-align: center;height: 20px; line-height: 20px;font-size: 0.8em;}
+.mui_icon_index{line-height:2;}
+
+
+.mui_Zidingyi{max-width:60px !important ;height:60px !important;}
+
+.index_li_title_img{width: 100%;height: 200px;margin-top: 10px;}

@@ -1,0 +1,47 @@
+
+body{background: #FFFFFF;}
+.mui-content{margin-bottom: 50px;}
+
+.search-product-input{color: #222 !important;}
+
+.title{
+				margin: 20px 15px 7px;
+				color: #6d6d72;
+				font-size: 15px;
+			}
+
+/*圆 */
+.li_div{width:50px;height:50px;border-radius: 25px; text-align: center;line-height: 50px;margin: auto;}
+
+.li_div_a{color: #FFFFFF;font-size: 0.9em;}
+
+.red{background: #F44421;}
+.green{background: #1DCCAA;}
+.blue{background: #45A1DE;}
+.prick{background: #FF7777;}
+
+
+
+
+
+.li_divall{width:70px;height:90px; float: left;}
+
+.li_div_span{width: 70px;text-align: center;height: 20px; line-height: 20px;font-size: 0.8em;}
+.mui-icon{line-height:2;font-size:30px;}
+
+
+.mui_Zidingyi{max-width:60px !important ;height:60px !important;}
+
+
+.product_imgs{height: 150px;width: 100%;}
+
+.produc_name_p{font-size: 1.2em;color: #000000;}
+.produc_olrd_p{font-size: 0.7em;color:#96CC43 ;}
+.produc_new_p{font-size: 1em;color: #CD494A;}
+
+
+.product-mui-hide{display: none;}
+
+.product-index-postion{width: 100%;background:  rgba(230,230,230,1); overflow: auto;}
+
+.mui-product-clso{text-align: center;}

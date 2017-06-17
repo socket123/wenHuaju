@@ -1,0 +1,24 @@
+/*全局通用样式*/
+
+
+body{background: #FFFFFF;}
+.mui_content_divs{margin-bottom: 50px;}
+
+.clear{clear: none;}
+		
+.li_ule{
+	position: relative;
+    overflow: hidden;
+    padding: 11px 15px;
+}
+
+
+.header_nav{background: #2BC19C !important;box-shadow:0 0px 0px #ccc !important;}
+
+.header_nav_color{color: #FFFFFF !important;}
+
+.index_li_title{line-height: 20px;text-align: center;;height: 20px;}
+
+.header_nav_wallater{height: 50px !important;}
+
+.extopna{width:100% !important;height: 40px !important;display: block;}

@@ -1,0 +1,38 @@
+.mui_Zidingyi{max-width:110px !important ;height:110px !important;}
+
+.order_page_text{text-align: right;}
+
+.yeN_color{color: #B82525;}
+
+.mui-badge{background-color:rgba(0, 0, 0, .0);}
+
+
+.nav_carePage_left{width: 35%;height: 100%;background: #EEEEEE;
+	text-align: center;line-height: 50px;}
+.nav_carePage_left_num{font-size: 1em ;color: #E5004E;}
+
+.nav_carePage_left_fu{font-size: 0.7em;}
+.nav_carePage_left_yeu{font-size: 0.7em;}
+
+
+
+.nav_carePage_right{width: 30%;height: 100%;background: #F2914A;
+	text-align: center;line-height:50px;color: #FFFFFF;font-size: 1em;}
+
+
+.nav_carePage_left_one{width: 35%;height: 100%;background: #EEEEEE;text-align: left;line-height: 50px; }
+
+.nav_carePage_right:hover{background:#999999; }
+
+
+.mui_media_weFU{font-size: 0.8em;color: #999999;}
+
+.mui_media_weFU_img{width: 100%;}
+
+
+.checkbox_class{top:100px !important;}
+
+
+.checkbox_all{position:absolute;top:10px!important;right:32px!important;}
+
+.checkbox_all_sapan{font-size: 0.8em;color: #999999;}

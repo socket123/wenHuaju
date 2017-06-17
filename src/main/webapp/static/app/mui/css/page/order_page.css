@@ -1,0 +1,30 @@
+.mui_Zidingyi{max-width:110px !important ;height:110px !important;}
+
+.order_page_text{text-align: right;}
+
+.mui-badge{background-color:rgba(0, 0, 0, .0);}
+
+body{background: #FFFFFF;}
+.mui-content{margin-bottom: 50px;}
+
+
+.nav_orderPage_left{width: 40%;height: 100%;background: #EEEEEE;
+	text-align: center;line-height: 50px;}
+.nav_orderPage_left_num{font-size: 1em ;color: #E5004E;}
+
+.nav_orderPage_left_fu{font-size: 0.7em;}
+.nav_orderPage_left_yeu{font-size: 0.7em;}
+
+.nav_orderPage_right{width: 60%;height: 100%;background: #F2914A;
+	text-align: center;line-height:50px;color: #FFFFFF;font-size: 1em;}
+
+
+
+.nav_orderPage_right:hover{background:#999999; }
+
+
+.mui_media_weFU{font-size: 0.8em;color: #999999;}
+
+.mui_media_weFU_img{width: 100%;}
+
+.yeN_color{color: #EA2000;}

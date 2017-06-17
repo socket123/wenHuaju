@@ -1,0 +1,27 @@
+.mui-row.mui-fullscreen>[class*="mui-col-"] {
+				height: 100% !important;;
+			}
+			
+			.mui-col-xs-3,
+			.mui-col-xs-9 {
+				overflow-y: auto!important;;
+				height: 100%!important;;
+			}
+			
+			.mui-segmented-control .mui-control-item {
+				line-height: 50px!important;;
+				width: 100%!important;;
+			}
+			
+			.mui-control-content {
+				display: block!important;;
+			}
+			
+			.mui-segmented-control.mui-segmented-control-inverted .mui-control-item.mui-active {
+				background-color: #fff!important;;
+			}
+
+
+.tab_imgs{width: 100%;height:100px;}
+
+.mui_Zidingyi{}

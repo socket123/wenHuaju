@@ -1,0 +1,44 @@
+
+#care_delte{font-size:16px;padding-top:15px;}
+
+
+
+.person_div_left{}
+
+.person_div_tone{width: 40%;height: 150px;margin: auto;}
+
+.person_div_right{}
+
+
+.personalcent{width: 80px;height: 80px;border-radius:40px;}
+
+.persion_P{color: #FFFFFF;font-size: 1em;}
+
+.persion_button_one{border:1px solid #fff;background-color:#2bc19c;line-height:1;color:#FFFFFF!important;}
+
+
+.personal_two{width: 33.3%;height: 80px;float: left;}
+
+/*圆 */
+
+.li_div{width:50px;height:50px;background: red; border-radius: 25px; text-align: center;line-height: 50px;
+	margin: auto;
+}
+
+.li_div_a{color: #FFFFFF;font-size: 0.9em;}
+
+.red{background: #F44421;}
+.green{background: #FEBF8C;}
+.blue{background: #A6C8F6;}
+.prick{background: #FAA7AF;}
+
+
+.li_div_span{width: 50px;text-align: center;height: 20px;color: #B4B4B4;line-height: 30px;margin: auto;font-size: 0.8em;}
+.mui-icon{line-height: 2;}
+
+
+.persion_li_div{color: #AAAAAA;font-size: 1.1em!important;}
+
+
+
+
